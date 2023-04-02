@@ -113,4 +113,4 @@ Pardon me for bad English.<br>
  Comment if you have more information to share on this topic.<br>
 <br>
 <span style="color:#59e817"><b>Notes</b></span><br>
-# In some cases, if your drive doesn't show up on the #7 steps, cancel installation. Normally start your pc and follow this tutorial https://support.hp.com/us-en/document/ish_4859717-4859823-16
+#In some cases, if your drive doesn't show up on the #7 steps, cancel installation. Normally start your pc and follow this tutorial https://support.hp.com/us-en/document/ish_4859717-4859823-16
